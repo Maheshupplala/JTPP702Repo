@@ -1,0 +1,5 @@
+#specify the files and folders to ignore
+target\
+.classpath
+.project
+.settings
